@@ -1,0 +1,52 @@
+{
+  "version": "1.0",
+  "updated_at": "2026-05-08T00:00:00Z",
+  "categories": [
+    {
+      "code": "security",
+      "name": "Security",
+      "icon": "lucide:shield"
+    }
+  ],
+  "plugins": [
+    {
+      "slug": "audit-logger",
+      "name": "audit-logger",
+      "display_name": "高级审计日志",
+      "description": "增强的操作审计功能。记录所有管理操作、数据变更、API 调用，支持合规导出和告警规则。",
+      "version": "1.1.0",
+      "author": "NovusAI",
+      "tier": "official",
+      "icon": "lucide:scroll-text",
+      "tags": [
+        "security",
+        "audit",
+        "compliance",
+        "logging"
+      ],
+      "category": "security",
+      "pricing_type": "free",
+      "downloads": 1876,
+      "rating": 4.7,
+      "compatibility": {
+        "platform_version": ">=1.0.0",
+        "editions": [
+          "single_admin"
+        ],
+        "surfaces": [
+          "admin",
+          "global"
+        ],
+        "tenant_exposure": "none",
+        "requires_tenant": false
+      },
+      "repository_url": "https://github.com/eric134679/novusai-admin-marketplace",
+      "download_url": "https://raw.githubusercontent.com/eric134679/novusai-admin-marketplace/main/marketplace/artifacts/audit-logger/audit-logger-1.1.0.zip",
+      "artifact_path": "audit-logger/audit-logger-1.1.0.zip",
+      "artifact_sha256": "5df1a5c6334b3aadb4cd437b1e66d5a4fdf3e580733266ddc4d31cc6009f6ea7",
+      "screenshots": [],
+      "created_at": "2026-01-25",
+      "updated_at": "2026-05-08"
+    }
+  ]
+}
