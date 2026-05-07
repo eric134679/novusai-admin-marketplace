@@ -2,10 +2,7 @@
   "plugin_name": "audit-logger",
   "version": "1.1.0",
   "filename": "audit-logger-1.1.0.zip",
-  "artifact_path": "marketplace/artifacts/audit-logger/audit-logger-1.1.0.zip",
-  "sha256": "5df1a5c6334b3aadb4cd437b1e66d5a4fdf3e580733266ddc4d31cc6009f6ea7",
-  "size_bytes": 969,
-  "download_url": "https://raw.githubusercontent.com/eric134679/novusai-admin-marketplace/main/marketplace/artifacts/audit-logger/audit-logger-1.1.0.zip",
-  "registry_url": "https://raw.githubusercontent.com/eric134679/novusai-admin-marketplace/main/marketplace/registry.json",
-  "plugin_detail_url": "https://raw.githubusercontent.com/eric134679/novusai-admin-marketplace/main/marketplace/plugins/audit-logger.json"
+  "sha256": "c5b0a52fb3297a61dfa08bb6ebefba142c745f921a6a0cc6bea7f7afd14b7385",
+  "size_bytes": 956,
+  "expected_download_url": "https://raw.githubusercontent.com/eric134679/novusai-admin-marketplace/main/marketplace/artifacts/audit-logger/audit-logger-1.1.0.zip"
 }
