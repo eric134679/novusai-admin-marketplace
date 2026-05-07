@@ -41,7 +41,7 @@
         "requires_tenant": false
       },
       "repository_url": "https://github.com/eric134679/novusai-admin-marketplace",
-      "download_url": "https://raw.githubusercontent.com/eric134679/novusai-admin-marketplace/main/marketplace/artifacts/audit-logger/audit-logger-1.1.0.zip",
+      "download_url": "https://github.com/eric134679/novusai-admin-marketplace/raw/main/marketplace/artifacts/audit-logger/audit-logger-1.1.0.zip",
       "artifact_path": "audit-logger/audit-logger-1.1.0.zip",
       "artifact_sha256": "c5b0a52fb3297a61dfa08bb6ebefba142c745f921a6a0cc6bea7f7afd14b7385",
       "screenshots": [],
